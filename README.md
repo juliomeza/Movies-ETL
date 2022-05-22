@@ -1,3 +1,6 @@
-# Movies ETL
+# Movies ETL (Extract Transform Load)
+## Overview
+Automated pipeline that takes new data (Wikipedia-dataset, Kaggle-dataset, MovieLens-dataset), performs the appropriate transformations, and loads the data into a PostgreSQL database.
 
-The purpose of this code is to create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. Data will be added to a PostgreSQL database.
+## Summary
+The same ETL can be applied to any other datasets.
